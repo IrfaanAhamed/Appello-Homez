@@ -21,9 +21,9 @@
   animation: mtn 20s linear infinite;
 }
 .dark .mountain{
-  box-shadow: 0 0 0 50px #062C30, 60px 50px 0 70px #062C30,
-  90px 90px 0 50px #062C30, 250px 250px 0 50px #062C30,
-  290px 320px 0 50px #062C30, 320px 400px 0 50px #062C30;
+  box-shadow: 0 0 0 50px #000000, 60px 50px 0 70px #000000,
+  90px 90px 0 50px #000000, 250px 250px 0 50px #000000,
+  290px 320px 0 50px #000000, 320px 400px 0 50px #000000;
 }
 .hill {
   position: absolute;
@@ -37,8 +37,8 @@
   animation: hill 4s 2s linear infinite;
 }
 .dark .hill {
-  box-shadow: 0 0 0 50px #062C30, -20px 0 0 20px #062C30, -90px 0 0 50px #062C30,
-    250px 0 0 50px #062C30, 290px 0 0 50px #062C30, 620px 0 0 50px #062C30;
+  box-shadow: 0 0 0 50px #000000, -20px 0 0 20px #000000, -90px 0 0 50px #000000,
+    250px 0 0 50px #000000, 290px 0 0 50px #000000, 620px 0 0 50px #000000;
 }
 .tree,
 .tree:nth-child(2),
